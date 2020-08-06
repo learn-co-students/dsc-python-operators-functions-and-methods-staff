@@ -1,4 +1,3 @@
-
 # Built-in Python Operators, Functions and Methods
 
 ## Introduction
@@ -208,7 +207,7 @@ True != False # returns True
 "heLLo" != "heLLo" # returns False
 ```
 
-Now onto the third grouping of comparison operators. The greater than (`>`), less than (`<`), greater than or equal to (`>=`) and less than or equal (`<=`) to operators also only return `True` or `False` as the output. 
+Now onto the third grouping of comparison operators. The greater than (`>`), less than (`<`), greater than or equal to (`>=`) and less than or equal to (`<=`) operators also only return `True` or `False` as the output. 
 
 ```python
 True > True # False
